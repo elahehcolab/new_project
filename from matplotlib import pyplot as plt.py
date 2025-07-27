@@ -1,6 +1,6 @@
 from matplotlib import pyplot as plt
 from tqdm import trange
-
+import numpy as np
 import torch
 import torch.nn as nn
 from torch.optim import Adam
