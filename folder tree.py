@@ -1,4 +1,5 @@
 import os
+import tensorflow as tf
 import numpy as np
 def get_folder_structure(folder_path, indent=0):
     structure = ""
