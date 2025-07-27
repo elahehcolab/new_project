@@ -1,5 +1,5 @@
 import os
-
+import numpy as np
 def get_folder_structure(folder_path, indent=0):
     structure = ""
     for item in sorted(os.listdir(folder_path)):
