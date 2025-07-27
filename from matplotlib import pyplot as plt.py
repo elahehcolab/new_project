@@ -1,5 +1,6 @@
 from matplotlib import pyplot as plt
 from tqdm import trange
+import pandas
 import numpy as np
 import torch
 import torch.nn as nn
